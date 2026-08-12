@@ -1,0 +1,35 @@
+Link das playlists do youtube que eu estou criando:
+
+SIS:
+
+https://www.youtube.com/playlist?list=PLE9mu2IFK3-k
+
+BEAUTIFUL CHAOS:
+
+https://www.youtube.com/playlist?list=PLfFT7BLn-PWY
+
+WILD:
+
+https://www.youtube.com/playlist?list=PLV6SbCG4YFKo
+
+Single:
+https://www.youtube.com/playlist?list=PLNv5OZHlbZKA
+
+Ordem das musicas do album sis:
+1 - Debut
+2 - Touch
+3 - My Way
+4 - I'm Pretty
+5 - Tinight I Might
+
+ordem das musicas do album BEAUTIFUL CHAOS:
+1 - Gnarly
+2 - Gabriela
+3 - Gameboy
+4 - Mean Girls
+5 - M.I.A
+
+onclicks de significados e letras (dentro do js):
+
+onclick="album1mus1_leTra()"
+onclick="album1mus1_sig()"

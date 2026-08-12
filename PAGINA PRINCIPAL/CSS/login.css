@@ -1,0 +1,145 @@
+/*
+Cores principais: Vermelho ( #FF0000 ), Preto ( #000000 ) e Branco ( #FFFFFF )
+Eu uso a pagina da microosft no 80%, por isso fica diferente em outros computadores que estão em 100%
+*/
+
+/*configuração universal do site*/
+* {
+
+    margin: 0px;
+    padding: 0px;
+
+    font-family: Arial;
+
+}
+
+/*configuração do body tag do html*/
+body {
+
+    background-color: rgba(0, 0, 0, 0.973);
+
+    color: white;
+
+    font-family: Arial;
+
+}
+
+main {
+
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.section_main {
+
+    background-color: black;
+
+    display: flex;
+    flex-direction: row;
+
+    height: 500px;
+    width: 50%;
+
+    border-radius: 10px;
+
+    border: 2px solid red;
+
+}
+
+.div_logo {
+
+    background-color: red;
+
+    width: 50%;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    border-radius: 10px 0px 0px 10px;
+
+}
+
+.div_logo img {
+
+    width: 170px;
+
+}
+
+.div_mainInput {
+
+    width: 50%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+
+}
+
+.div_h1{
+
+    margin-bottom: 50px;
+
+}
+
+.div_inputs {
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.div_inputs label {
+
+    display: block;
+
+    font-size: 14px;
+
+    margin-left: 6px;
+    margin-bottom: 3px;
+
+}
+
+.input_text {
+
+    height: 30px;
+    width: 200px;
+
+    padding-left: 5px;
+
+    border-radius: 10px;
+
+}
+
+.input_password {
+
+    height: 30px;
+    width: 200px;
+
+    padding-left: 5px;
+
+    border-radius: 10px;
+
+}
+
+.input_butt {
+
+    background-color: red;
+    color: white;
+
+    border: none;
+
+    height: 30px;
+    width: 100px;
+
+    border-radius: 10px;
+
+}
